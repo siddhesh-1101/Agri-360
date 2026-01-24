@@ -1,0 +1,77 @@
+[
+  {
+    "id": "u-farmer-1",
+    "email": "farmer1@agri360.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "+1234567890",
+    "role": "farmer",
+    "region": "North",
+    "profile": {
+      "farmName": "Doe's Organic Farm"
+    },
+    "address": {
+      "street": "123 Farm Road",
+      "city": "Rural City",
+      "state": "State A",
+      "zipCode": "12345",
+      "country": "Country"
+    },
+    "passwordHash": "$2a$10$KzqpQxzXCUNh/p0z.t0Wru4JRIAYrzdFIVBSoYJV4ZEPcxeD9s0Jm"
+  },
+  {
+    "id": "u-retailer-1",
+    "email": "retailer1@agri360.com",
+    "firstName": "Alice",
+    "lastName": "Williams",
+    "phone": "+1234567893",
+    "role": "retailer",
+    "region": "North",
+    "profile": {
+      "storeName": "Williams Fresh Market"
+    },
+    "address": {
+      "street": "321 Store Avenue",
+      "city": "Urban City",
+      "state": "State A",
+      "zipCode": "12345",
+      "country": "Country"
+    },
+    "passwordHash": "$2a$10$kVj.Avy1w9Fhzy80TCFhzu0Ta23KpQ4hALVHuOaxjIx03tGXGGtMm"
+  },
+  {
+    "id": "u-agent-1",
+    "email": "agent1@agri360.com",
+    "firstName": "Edward",
+    "lastName": "Miller",
+    "phone": "+1234567896",
+    "role": "agent",
+    "region": "North",
+    "profile": {
+      "facilityName": "Miller Ripening Facility"
+    },
+    "address": {
+      "street": "147 Facility Road",
+      "city": "Industrial City",
+      "state": "State A",
+      "zipCode": "12345",
+      "country": "Country"
+    },
+    "passwordHash": "$2a$10$On2gWLmtUrJ7Ecvtj0THLOZ5EGcLYPyRq3//VSXX0QRJnNo0PBpce"
+  },
+  {
+    "id": "u-1768915737521-6247",
+    "email": "farmer@gmail.com",
+    "passwordHash": "$2a$10$tu8Xu7rmy7cWGVV3rrhHr.Ny0xb3QxXLFL96pXM0MhUcrnXnMj9D.",
+    "firstName": "Prathmesh",
+    "lastName": "Dhande",
+    "phone": "123456789",
+    "role": "farmer",
+    "region": "North",
+    "address": {},
+    "profile": {
+      "farmName": "Dhande01"
+    },
+    "createdAt": "2026-01-20T13:28:57.522Z"
+  }
+]

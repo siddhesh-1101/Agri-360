@@ -1,0 +1,15 @@
+[
+  {
+    "id": "o-1",
+    "orderNumber": "ORD-1",
+    "retailerId": "u-retailer-1",
+    "farmerId": "u-farmer-1",
+    "produceIds": [
+      "p-1"
+    ],
+    "totalAmount": 12500,
+    "status": "pending",
+    "agentId": null,
+    "createdAt": "2026-01-20T12:35:36.915Z"
+  }
+]
