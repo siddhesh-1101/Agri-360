@@ -184,8 +184,8 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-* GitHub: https://github.com/yourusername
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: https://github.com/siddhesh-1100
+* Email: [your.email@example.com](bhorsidd@gmail.com)
 
 ---
 
